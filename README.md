@@ -1,10 +1,5 @@
-### Hello, my name is Elias! Welcome! 👋
+### Hello, my name is Elias! 👋
 
-
-<!--
-**EliasRLima/eliasrlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I currently work as an Oracle database administrator in D2TI Integrated Solutions
 - 🌱 I’m currently learning java, javaFx, C, C++ and C#
