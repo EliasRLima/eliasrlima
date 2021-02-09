@@ -1,4 +1,4 @@
-### Hello, my name is Elias! 👋
+### Hello 👋
 
 
 - 🔭 I currently work as an Oracle Database Administrator in D2TI Integrated Solutions
