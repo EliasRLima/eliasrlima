@@ -5,6 +5,5 @@
 - 👯 I am currently developing a compiler and translator "Portugol", see more in http://portugol.sourceforge.net/
 - 📫 To talk to me, my instagram <a href="https://www.instagram.com/eliasrlima_/">@eliasrlima_</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasrlima)](https://github.com/eliasrlima/github-readme-stats)
 
-
+<img src="https://i.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.webp" alt="Trulli" width="480" height="480">
