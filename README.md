@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Elias Lima e atualmente tenho carreira focada em <strong>fullstack</strong>.<br>
-  Atualmente trabalho como Analista e desenvolvedor Oracle pela SEFAZ/MA e estou como voluntário no projeto MAPLER para traduçao e compilação em "Portugol", veja mais em http://portugol.sourceforge.net/
+  Olá, meu nome é Elias Lima e atualmente tenho carreira focada em <strong>full stack</strong>.<br></br>
+  Atualmente trabalho com Oracle pela SEFAZ/MA e estou como voluntário no projeto MAPLER para traduçao e compilação em "Portugol", veja mais em http://portugol.sourceforge.net/
 </p>
 
 <p align="left">
