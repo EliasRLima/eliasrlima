@@ -23,12 +23,15 @@
   💼 Ferramentas: </br>
   - Angular</br>
   - Cassandra</br>
+  - Google Cloud</br>
+  - JPA</br>
   - Laravel</br>
   - MongoDB</br>
   - MySql</br>
   - Node</br>
   - React</br>
   - Oracle</br>
+  - Spring</br>
 </p>
 
 <p align="left">
