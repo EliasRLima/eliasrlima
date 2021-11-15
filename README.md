@@ -12,7 +12,6 @@
 - C++</br>
 - C#</br>
 - Java</br>
-- JavaFx</br>
 - JavaScript</br>
 - PHP</br>
 - PL/SQL</br>
@@ -24,6 +23,7 @@
   - Angular</br>
   - Cassandra</br>
   - Google Cloud</br>
+  - JavaFx</br>
   - JPA</br>
   - Laravel</br>
   - MongoDB</br>
