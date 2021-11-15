@@ -1,10 +1,4 @@
-### Hello 👋
-
-
-- 🌱 I’m currently using C, C++, C#, Java, JavaFx, JavaScript, Node, PHP, PL/SQL, React
-- 👯 I am currently developing a compiler and translator "Portugol", see more in http://portugol.sourceforge.net/
-- 📫 To talk to me, my instagram <a href="https://www.instagram.com/eliasrlima_/">@eliasrlima_</a>
-
+- 👯 Atualmente estou no projeto MAPLER para traduçao e compilação em "Portugol", veja mais em http://portugol.sourceforge.net/
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -14,16 +8,16 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: 
-  - C
-  - C++
-  - C#
-  - Java
-  - JavaFx
-  - JavaScript
-  - PHP
-  - PL/SQL
-  - Python
+  🦄 Linguagens: </br>
+- C
+- C++
+- C#
+- Java
+- JavaFx
+- JavaScript
+- PHP
+- PL/SQL
+- Python
 </p>
 
 <p align="left">
