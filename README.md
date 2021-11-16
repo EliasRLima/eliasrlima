@@ -53,4 +53,3 @@
 </p>  
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=eliasrlima&theme=default)](https://github.com/iuricode/)
