@@ -13,6 +13,7 @@
 - C#</br>
 - Java</br>
 - JavaScript</br>
+- Julia</br>
 - PHP</br>
 - PL/SQL</br>
 - Python</br>
