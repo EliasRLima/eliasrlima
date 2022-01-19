@@ -6,7 +6,7 @@
   Atualmente trabalho com Oracle pela SEFAZ/MA e estou como voluntário no projeto MAPLER para traduçao e compilação em "Portugol", veja mais em http://portugol.sourceforge.net/
 </p>
 
-<p align="left">
+<!--<p align="left">
   🦄 Linguagens: </br>
 - C</br>
 - C++</br>
@@ -33,7 +33,7 @@
   - React</br>
   - Oracle</br>
   - Spring</br>
-</p>
+</p>-->
 
 <p align="left">
   💌 Caso deseje, entre em contato: ⤵️
