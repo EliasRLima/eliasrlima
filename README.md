@@ -6,6 +6,14 @@
   Atualmente trabalho com Oracle pela SEFAZ/MA e estou como voluntário no projeto MAPLER para traduçao e compilação em "Portugol", veja mais em http://portugol.sourceforge.net/
 </p>
 
+<!-- Begin SF Tag -->
+<div class="sf-root" data-id="517898" data-badge="oss-community-choice-white" data-metadata="achievement=oss-community-choice" style="width:125px">
+    <a href="https://sourceforge.net/projects/portugol/" target="_blank">MAPLER- Compilador Portugol</a>
+</div>
+<script>(function () {var sc=document.createElement('script');sc.type='text/javascript';sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=517898';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
+</script>
+<!-- End SF Tag -->
+
 <!--<p align="left">
   🦄 Linguagens: </br>
 - C</br>
