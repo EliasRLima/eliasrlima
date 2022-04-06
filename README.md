@@ -50,6 +50,6 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/eliasrlima_/"/></a>
 </p>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasrlima)](https://github.com/eliasrlima/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasrlima&hide=html)](https://github.com/eliasrlima/github-readme-stats)
 
 
