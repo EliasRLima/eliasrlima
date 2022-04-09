@@ -3,7 +3,7 @@
 
 <p align="left"> 
   Olá, meu nome é Elias Lima.<br></br>
-  Atualmente trabalho com Oracle pela SEFAZ/MA e estou como voluntário no projeto MAPLER para traduçao e compilação em "Portugol", veja mais em http://portugol.sourceforge.net/
+  Estou como voluntário no projeto MAPLER para traduçao e compilação em "Portugol", veja mais em http://portugol.sourceforge.net/
 </p>
 
 <!--<p align="left">
