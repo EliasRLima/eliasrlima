@@ -3,37 +3,8 @@
 
 <p align="left"> 
   Olá, meu nome é Elias Lima.<br></br>
-  Estou como voluntário no projeto MAPLER para traduçao e compilação em "Portugol", veja mais em http://portugol.sourceforge.net/
+  Estou como voluntário no projeto MAPLER, veja mais em http://portugol.sourceforge.net/
 </p>
-
-<!--<p align="left">
-  🦄 Linguagens: </br>
-- C</br>
-- C++</br>
-- C#</br>
-- Java</br>
-- JavaScript</br>
-- Julia</br>
-- PHP</br>
-- PL/SQL</br>
-- Python</br>
-</p>
-
-<p align="left">
-  💼 Ferramentas: </br>
-  - Angular</br>
-  - Cassandra</br>
-  - Google Cloud</br>
-  - JavaFx</br>
-  - JPA</br>
-  - Laravel</br>
-  - MongoDB</br>
-  - MySql</br>
-  - Node</br>
-  - React</br>
-  - Oracle</br>
-  - Spring</br>
-</p>-->
 
 <p align="left">
   💌 Caso deseje, entre em contato: ⤵️
