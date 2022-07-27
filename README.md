@@ -3,7 +3,6 @@
 
 <p align="left"> 
   Olá, meu nome é Elias Lima.<br></br>
-  Estou como voluntário no projeto MAPLER, veja mais em http://portugol.sourceforge.net/
 </p>
 
 <p align="left">
