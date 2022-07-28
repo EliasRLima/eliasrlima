@@ -19,7 +19,13 @@
 </p>
 
 <p align="left">
-Estou como voluntário no projeto MAPLER para traduçao e compilação em "Portugol", veja mais em http://portugol.sourceforge.net/
+Projeto MAPLER para traduçao e compilação em "Portugol", veja mais em http://portugol.sourceforge.net/ <br></br>
+
+<a href="https://github.com/EliasRLima/Interface-MAPLER">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasrlima&repo=Interface-MAPLER&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
+
+
 </p>
 
 <p align="left">
