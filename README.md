@@ -3,7 +3,23 @@
 
 <p align="left"> 
   Olá, meu nome é Elias Lima.<br></br>
-  Estou como voluntário no projeto MAPLER para traduçao e compilação em "Portugol", veja mais em http://portugol.sourceforge.net/
+  Sou formado em Tecnico em Informática e atualmente estou cursando um bacharelado em Sistemas de Informação pelo Instituto Federal do Maranhão. <br></br>
+  Atualmente trabalho como Desenvolvedor Spring/Scala Pleno e tenho alguns freelance como Engenheiro de Dados Spark e Desenvolvedor PL/SQL<br></br>
+  
+</p>
+
+<p align="left">
+  🦄 Linguagens Favoritas: </br>
+- C++</br>
+- Java</br>
+- JavaScript</br>
+- Julia</br>
+- PL/SQL</br>
+- Python</br>
+</p>
+
+<p align="left">
+Estou como voluntário no projeto MAPLER para traduçao e compilação em "Portugol", veja mais em http://portugol.sourceforge.net/
 </p>
 
 <p align="left">
