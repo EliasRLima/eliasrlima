@@ -1,22 +1,36 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+[![sobre](https://img.shields.io/static/v1?label=Sobre&message=Elias+Lima&color=f8efd4&style=for-the-badge&logo=GitHub")](https://github.com/EliasRLima)
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=eliasrlima&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+
 
 <p align="left"> 
-  Olá, meu nome é Elias Lima.<br></br>
-  Sou formado em Tecnico em Informática e atualmente estou cursando um bacharelado em Sistemas de Informação pelo Instituto Federal do Maranhão. <br></br>
+ Sou formado em Tecnico em Informática e atualmente estou cursando o curos de bacharelado em Sistemas de Informação pelo Instituto Federal do Maranhão. <br></br>
   Atualmente trabalho como Desenvolvedor Spring.<br></br>
   
 </p>
 
 <p align="left">
-  🦄 Linguagens Favoritas: </br>
+  ❤️ Linguagens Favoritas: </br>
 - C++</br>
 - Java</br>
 - Julia</br>
+</br>
+  💛 Já usei: </br>
+- C</br>
+- C#</br>
+- JavaFx</br>
+- JavaScript (Angular, Electron, Node, React, etc)</br>
+- Pascal</br>
+- PHP (Codeigniter, Laravel, etc) </br>
+- PL/SQL</br>
+- Python</br>
+- Scala</br>
 </p>
 
 <p align="left">
-Projeto MAPLER para traduçao e compilação em "Portugol", veja mais em http://portugol.sourceforge.net/ <br></br>
+⭐ Projeto MAPLER: </br> 
+ Ambiente para desenvolvimento de fluxogramas e uma IDE completa para "Portugol" com a possibilidade de realizar a tradução de código para linguagens de alto nível, veja mais em http://portugol.sourceforge.net/ <br></br>
 
 </p>
 
