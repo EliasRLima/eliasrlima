@@ -4,7 +4,7 @@
 <p align="left"> 
   Olá, meu nome é Elias Lima.<br></br>
   Sou formado em Tecnico em Informática e atualmente estou cursando um bacharelado em Sistemas de Informação pelo Instituto Federal do Maranhão. <br></br>
-  Atualmente trabalho como Desenvolvedor Spring/Scala e tenho alguns freelances como Engenheiro de Dados Spark e Desenvolvedor PL/SQL<br></br>
+  Atualmente trabalho como Desenvolvedor Spring.<br></br>
   
 </p>
 
@@ -12,10 +12,7 @@
   🦄 Linguagens Favoritas: </br>
 - C++</br>
 - Java</br>
-- JavaScript</br>
 - Julia</br>
-- PL/SQL</br>
-- Python</br>
 </p>
 
 <p align="left">
