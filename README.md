@@ -5,9 +5,7 @@
 
 
 <p align="left"> 
- Sou formado em Tecnico em Informática e atualmente estou cursando o curos de bacharelado em Sistemas de Informação pelo Instituto Federal do Maranhão. <br></br>
-  Atualmente trabalho como Desenvolvedor Spring.<br></br>
-  
+ Sou formado em Tecnico em Informática e atualmente estou cursando o curos de bacharelado em Sistemas de Informação pelo Instituto Federal do Maranhão.
 </p>
 
 <p align="left">
