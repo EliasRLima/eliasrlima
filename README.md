@@ -5,7 +5,7 @@
 
 
 <p align="left"> 
- Sou formado em Tecnico em Informática e atualmente estou cursando o curos de bacharelado em Sistemas de Informação pelo Instituto Federal do Maranhão.
+ Sou formado em Tecnico em Informática e atualmente estou cursando um bacharelado em Sistemas de Informação pelo Instituto Federal do Maranhão.
 </p>
 
 <p align="left">
