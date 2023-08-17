@@ -1,8 +1,6 @@
 
 [![sobre](https://img.shields.io/static/v1?label=Sobre&message=Elias+Lima&color=f8efd4&style=for-the-badge&logo=GitHub")](https://github.com/EliasRLima)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=eliasrlima&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-
 
 <p align="left"> 
  Sou formado em Tecnico em Informática e atualmente estou cursando um bacharelado em Sistemas de Informação pelo Instituto Federal do Maranhão.
