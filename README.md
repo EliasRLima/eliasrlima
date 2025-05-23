@@ -7,26 +7,15 @@
 </p>
 
 <p align="left">
-  ❤️ Linguagens Favoritas: </br>
-- C++</br>
-- Java</br>
-- Julia</br>
-</br>
-  💛 Já usei: </br>
-- C</br>
-- C#</br>
-- JavaFx</br>
-- JavaScript (Angular, Electron, Node, React, etc)</br>
-- Pascal</br>
-- PHP (Codeigniter, Laravel, etc) </br>
-- PL/SQL</br>
-- Python</br>
-- Scala</br>
+  Desenvolvo em diversas linguagens e sempre com vontade de aprender algo novo!
 </p>
+
+<p></p>
+<p></p>
 
 <p align="left">
 ⭐ Projeto MAPLER: </br> 
- Ambiente para desenvolvimento de fluxogramas e uma IDE completa para "Portugol" com a possibilidade de realizar a tradução de código para linguagens de alto nível, veja mais em http://portugol.sourceforge.net/ <br></br>
+ Ambiente para desenvolvimento de "Portugol e Fluxogramas" com a possibilidade de realizar a tradução para linguagens de alto nível, veja mais em http://portugol.sourceforge.net/ <br></br>
 
 </p>
 
