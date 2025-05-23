@@ -3,15 +3,11 @@
 
 
 <p align="left"> 
- Sou formado em Tecnico em Informática e bacharel em Sistemas de Informação pelo Instituto Federal do Maranhão.
+ Sou formado em Tecnico em Informática, bacharel em Sistemas de Informação pelo Instituto Federal do Maranhão e ciclista nas horas vagas 🚴‍♂️😎🤘
 </p>
 
-<p align="left">
-  Desenvolvo em diversas linguagens e sempre com vontade de aprender algo novo!
-</p>
-
-<p></p>
-<p></p>
+</br>
+</br>
 
 <p align="left">
 ⭐ Projeto MAPLER: </br> 
